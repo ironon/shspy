@@ -1,0 +1,38 @@
+{
+    "Messages": {
+        "Message": {
+            "0": "jsd",
+            "1": "YES"
+        },
+        "Member": {
+            "0": "Iron",
+            "1": "Iron"
+        },
+        "Timestamp": {
+            "0": 1673199961.0845094,
+            "1": 1673199968.3526268
+        },
+        "Attachments": {
+            "0": null,
+            "1": null
+        },
+        "Embeds": {
+            "0": null,
+            "1": null
+        }
+    },
+    "VC": {
+        "Member": {
+            "0": "Iron",
+            "1": "Iron"
+        },
+        "Timestamp": {
+            "0": 1673200009.333219,
+            "1": 1673200011.5847223
+        },
+        "Joined": {
+            "0": true,
+            "1": false
+        }
+    }
+}
